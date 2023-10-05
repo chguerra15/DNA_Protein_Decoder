@@ -1,19 +1,15 @@
 /*
-    Name: Christian Guerra
-    PID:  A17660168
+ Christian Rene Guerra
  */
 
 import java.util.NoSuchElementException;
 
 /**
- * dsc30sp23-pa2
  *
- * @author chguerra
  * @since April 11th, 2023
  */
 
 public class CharQueue {
-    /* instance variables, feel free to add more if you need */
     private char[] circularArray;
     private int length;
     private int front;
