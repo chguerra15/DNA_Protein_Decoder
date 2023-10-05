@@ -1,14 +1,4 @@
-/*
-    Name: Christian Guerra
-    PID:  A17660168
- */
 
-/**
- *
- *
- * @author Chguerra
- * @since April 13th, 2023
- */
 class ProteinSynthesis {
     CharQueue rnaSample = new CharQueue();
     public CharQueue transcribeDNA(String dna) {
